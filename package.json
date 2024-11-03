@@ -1,0 +1,28 @@
+{
+  "name": "formppi",
+  "version": "1.0.0",
+  "description": "projeto da aula ao vivo ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nykcris/formPPI.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST"
+  ],
+  "author": "prof da materia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nykcris/formPPI/issues"
+  },
+  "homepage": "https://github.com/nykcris/formPPI#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
